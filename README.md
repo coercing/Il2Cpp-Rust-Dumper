@@ -1,7 +1,23 @@
-# Il2Cpp-Rust-Dumper
+<div align="center">
+<h1>Il2cpp Rust Offset Dumper</h1>
 
-This repository provides a simple automated workflow to run **[Il2CppDumper](https://github.com/Perfare/Il2CppDumper)** on Unity il2cpp games and generate cleaned offset header files (`external_offsets.h` & `internal_offsets.h`) useful for game hacking/reverse engineering Unity il2cpp based games.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F700898.png&f=1&nofb=1&ipt=55604e390a1fc947c00a33ab5989af5a4f634c602f28081c0c86527981df085b" alt="gui" width="100%" align="center"/>
 
-## Im too lazy to write a tutorial at this current moment in time.
-Just make sure you have the Il2Cpp executable in the same directory as this project and run the python files in order!
+<div align="center">
+<h1>[ credits ]</h1>
 
+**original development:**: [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)<br>
+**'improved' code:**: [coercing (me)](https://github.com/coercing) and [Grok AI](https://grok.com/)
+</div>
+
+<h1>[ how to use tutorial ]</h1>
+
+### 1. Download the source (ofc)
+
+</div>
+
+```bash
+Im lowkey too lazy to write a tutorial <3
+```
+
+</div>
